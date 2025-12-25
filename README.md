@@ -114,7 +114,3 @@ python advanced_cnn_rnn.py
 ## Author
 
 Anamala Muni Cherisma  
-Telugu Handwriting Recognition Project
-
-## 📂 Project Structure
-
